@@ -21,16 +21,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(store)/(home)/loading.js"
     ],
-    "/(store)/search/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(store)/search/page.js"
-    ],
-    "/(store)/search/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(store)/search/loading.js"
-    ],
     "/(store)/product/[slug]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
