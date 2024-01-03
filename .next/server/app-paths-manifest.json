@@ -1,8 +1,5 @@
 {
   "/api/products/featured/route": "app/api/products/featured/route.js",
-  "/api/products/search/route": "app/api/products/search/route.js",
-  "/api/products/[slug]/route": "app/api/products/[slug]/route.js",
   "/(store)/(home)/page": "app/(store)/(home)/page.js",
-  "/(store)/search/page": "app/(store)/search/page.js",
-  "/(store)/product/[slug]/page": "app/(store)/product/[slug]/page.js"
+  "/(store)/search/page": "app/(store)/search/page.js"
 }
